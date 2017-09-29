@@ -8,7 +8,6 @@
 
 - [Introduction](#introduction)
 - [Game Plan](#game-plan)
-    - [something](#something)
 - [Past Experience](#past-experience-review)
 - [Client Side v. Server Side](#client-side-v.-server-side)
 - [Setup](#setup)
@@ -25,15 +24,16 @@ remainder of the Epicodus program with more confidence as we begin our job searc
 
 ## Game Plan 
 After some reflection I have narrowed down some areas that I would like to spend my time
-on that will provide me above mentioned confidence moving forward.
-	* Past Experience Review Technical and Non-Technical
-	* Client Side -v- Server Side Big Picture Review
-	* HackReactor, Hackerrank
-	* typing.io 
+on that will provide me with the above mentioned confidence moving forward.
+
+* Past Experience Review Technical and Non-Technical
+* Client Side -v- Server Side Big Picture Review
+* HackReactor, Hackerrank
+* typing.io 
 
 ### Past Experience Review
 
-####What is holding me back? 
+#### What is holding me back? 
 
 #### Technical
 I have significant Engineering Experience that I have been very excited to return to
