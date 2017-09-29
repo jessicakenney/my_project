@@ -32,9 +32,10 @@ on that will provide me above mentioned confidence moving forward.
 	* typing.io 
 
 ### Past Experience Review
-What is holding me back? 
 
-### Technical
+####What is holding me back? 
+
+#### Technical
 I have significant Engineering Experience that I have been very excited to return to
 with my new Epicodus Software Skills. What is holding me back? After an 8 year gap of
 staying home to raise my children I am struggling to speak with ease about my
@@ -45,11 +46,21 @@ and leaving me with fear of assembling a resume and interviewing. It is importan
 represent my past in a way that feels good, so as a self-assigned topic, I'd like to take 
 the time today to review key concepts of my past experience as a refresher, and a step to the future.
 
+##### Document
+
 ### Non-Technical
 When I started my engineering career in the 90's there was not the attention and support there
-is today regarding Women in Engineering. I feel proud, to witness the change of times, but it
-is not without recognition that my past experiences have shaped insecurities and aversions
-to situations that I should not have to deal with at work.  
+is today regarding Women in Engineering. I feel proud to witness the change of times, but it
+is not without the awarenes how I have been shaped by past experiences and am left feeling anxious
+of what to expect returning to the workplace. Historically, I have shoved aside experiences that 
+I felt inappropriate because I loved my job and found it emotionally confusing how to navigate
+such incidents. Moving forward, I aspire to find my voice with such issues with the guidance of 
+a mentor, and help advocate for other women who find themselves questioning behaviors in their 
+work environment. 
+
+##### Steps to Find a Female Engineer Mentor
+##### Active enrollment in Women in Technology Organization 
+
 
 #### 
 #### 
