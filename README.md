@@ -65,11 +65,14 @@ work environment.
 #### 
 #### 
 
-### Need a picture 
-![Alt text](src/main/resources/public/images/httpie.png)
-
-## Setup
-#### git clone https://github.com/jessicakenney/my_project.git
+## **Setup
+#### **Attention: Angular Site with outline of activities is in "my-project" repository, not "my_project"
+#### git clone https://github.com/jessicakenney/my-project.git
+#### cd my-project
+#### npm install
+#### bower install
+#### ng serve
+#### bring up localhost:4200
 
 ## Support 
 email with any questions: jessicakenney@yahoo.com
